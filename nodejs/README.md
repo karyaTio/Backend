@@ -1,0 +1,12 @@
+- [x] npm
+- [] Understanding of Asynchronous Javascript
+- [] CRUD Operations
+- [] Data Validation
+- [] Authentication and Authorization (using JSON web token including role management)
+- [] Handling and logging error
+- [] Unit and integration testing
+- [] Test-driven Development
+- [] Deployment
+- [] Clean coding and refactoring technique
+- [] Security Best Practices
+- [] Useful Library
